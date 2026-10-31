@@ -1,0 +1,58 @@
+﻿claim_id,poster_section,supplied_workbook_claim,poster_references,review_date,review_and_website_treatment
+1,Intro,"Mutriku is an OWC plant built into a harbour breakwater in northern Spain, combining generation with turbine testing","1, 4, 9",2026-10-31,Supported: breakwater OWC generation and testing. Whole-structure and incremental-equipment boundaries are distinguished.
+2,Intro,1910 – Bochaux-Praceique builds the believed first OWC,7,2026-10-31,Historical account attributed to WEDUSEA; retain believed-first qualification.
+3,Intro,1940s – Masuda wave-powered navigation buoy,7,2026-10-31,Historical development described in WEDUSEA.
+4,Intro,"Late 1970s – Wells turbine invented, no rectifying valves",8,2026-10-31,IEA-OES history supports the turbine timing and valve statement.
+5,Intro,"1985 – Toftestallen, Norway shoreline OWC prototype",8,2026-10-31,IEA-OES lists the 1985 Toftestallen prototype.
+6,Intro,1999–2000 – Pico and LIMPET; LIMPET ran over 10 years,"7, 8",2026-10-31,Pico 1999 and LIMPET 2000 from IEA-OES; operation over ten years from WEDUSEA.
+7,Intro,Grid connection: 16 chambers × 18.5 kW (296 kW),"1, 14",2026-10-31,"Design specification corroborated by [10,19]; distinguish from the 14-turbine operating study."
+8,Intro,Europe's first commercial wave plant (EVE's description),13,2026-10-31,EVE description attributed to its 2024 announcement. Historical first-commercial labels depend on device/project category.
+9,Intro,More operating hours since 2011 than any other plant of its kind (EVE),13,2026-10-31,EVE claim as of its January 2024 announcement; not an independently audited current world ranking.
+10,Intro,Part of the tourist offer of the UNESCO Basque Coast Geopark,14,2026-10-31,Tour listing corroborated directly by the official Basque Coast Geopark [21]. The cited Interreg page [14] could not be retrieved.
+11,How it works,"Diagram of OWC operation, based on [1]",1,2026-10-31,"Explanatory schematic, not a simulation; above-water air turbine and submerged chamber opening."
+12,Where it sits,"One structure shares harbour protection, port use and electricity generation","1, 11",2026-10-31,Shared harbour and electricity functions; this does not assign all benefits or burdens exclusively to the OWC.
+13,Where it sits,BiMEP Mutriku area also hosts turbine testing,"4, 9",2026-10-31,"Testing role supported by [4,9,19]. A testing capability is not a measured environmental benefit."
+14,Where it sits,"Photo credit: Txo (2026), Wikimedia Commons, CC0 1.0",—,2026-10-31,"Commons author Txo, date 22 August 2026 and CC0 dedication verified."
+15,Carbon,226 g CO2e/kWh life-cycle total (20-year model),1,2026-10-31,"Published model total, not a direct measured emissions rate."
+16,Carbon,"Stage split: construction 86.6% (195 g), operation and maintenance 5.5% (12.4 g), end of life 7.9% (17.9 g)",1,2026-10-31,"Stage shares reproduce rounded values; 195+12.4+17.9=225.3. Construction share is 195/225.3=86.55%, rounded 86.6%."
+17,Carbon,"Model: 20 years, 4.93 GWh",1,2026-10-31,"Model boundary and lifetime output, not observed twenty-year generation."
+18,Carbon,Dismantling emissions set to zero (no data),1,2026-10-31,"Zero is a missing-data assumption, not evidence of zero dismantling emissions."
+19,Carbon,Model includes breakwater construction but excludes its maintenance,1,2026-10-31,Construction included; breakwater maintenance excluded. Preserve this qualification in every whole-life interpretation.
+20,Carbon,Mutriku emits 53–94% more greenhouse gas than the other ocean devices compared,1,2026-10-31,Attributed to the LCA discussion of Figure 7; no harmonised cross-technology ranking or independent percentage recalculation claimed.
+21,Carbon,"Data tags: secondary inventories (construction), staff data (operation), no data (dismantling)",1,2026-10-31,Keep inventory provenance distinct; missing dismantling data are not an observed end-of-life outcome.
+22,Carbon,Rounded stages sum to 225.3 vs 226 reported,—,2026-10-31,Arithmetic checked: 225.3; the separately rounded published total is 226.
+23,Output,Forecast 600 MWh/year (2012),"3, 16",2026-10-31,600 MWh/year is a dated forecast; exact original 12 August 2012 statement located. Opening announcement [16] also gives this estimate.
+24,Output,"Measured 246 MWh/year, 2014–2016",2,2026-10-31,246.4687 MWh/year is the mean in the 2014–2016 study; chart rounds it.
+25,Output,41% of the earlier forecast,"2, 3",2026-10-31,"246.4687/600*100=41.0781%, rounded 41%; not capacity factor."
+26,Output,Average 2011–2023: 240 MWh/year,"13, 14",2026-10-31,"QUALIFY ON POSTER: approximately 240, based on rounded 3000/12.5. Over 3 GWh implies an actual mean above 240. Not an exact measured average."
+27,Output,About 10 of 14 turbines analysed working on average,2,2026-10-31,Approximately ten working on average within fourteen analysed; neither is the original sixteen-position design.
+28,Output,1 GWh in 2016 and 2 GWh in 2020,17,2026-10-31,Corroborated by primary February 2020 BiMEP announcement; 2 GWh announcement date is not necessarily the crossing date.
+29,Output,Over 3 GWh by the end of 2023,"13, 14",2026-10-31,"EVE’s 2023 annual report [20, printed p. 21] independently confirms cumulative generation above 3 GWh during 2023. EVE [13] reports the milestone in January 2024."
+30,Beyond carbon,Construction noise heard 3–10 km away and worried locals,10,2026-10-31,Developer-reported audibility and concern during storm-time construction; not a measured ecological harm radius.
+31,Beyond carbon,One month of 2022 operating noise monitoring (one of three hydrophones failed) found no plant contribution to the soundscape,18,2026-10-31,"2024 SafeWAVE report p.24 supports campaign timing, one malfunctioning hydrophone and no detected contribution. This is a limited nondetection."
+32,Beyond carbon,Breakwater may alter sediment and flow; the OWC adds no significant change,10,2026-10-31,Developer-supplied incremental-OWC account; not proof that the whole breakwater has no sediment or habitat effect.
+33,Beyond carbon,"Turbines sit in the air, not the sea, but salt exposure and splashing still cause corrosion","11, 15",2026-10-31,Above-water turbine does not prevent saline exposure. Later [15] supports salt-related failure and high-water corrosion/splashing risks.
+34,Beyond carbon,"Plant sits on the breakwater, not the seabed",12,2026-10-31,WESE describes artificial breakwater substrate. Natural hard-bottom setting [10] is a different spatial description. Neither means no whole-breakwater seabed footprint.
+35,Beyond carbon,Most other LCA categories (e.g. marine ecotoxicity) are driven by construction,1,2026-10-31,"Model impact categories, not measured local ecological changes."
+36,Beyond carbon,Construction used about 12.9 kt concrete and 21.3 kt limestone,1,2026-10-31,Table 2: concrete (342000+12600000)/1000000 = 12.942 kt; limestone (21300000+7650)/1000000 = 21.30765 kt.
+37,Payback,Energy payback 26.2 years vs 20-year model life (+6.2),1,2026-10-31,Preliminary estimate; 26.2-20=6.2 years.
+38,Payback,Break-even needs about 31% more output or about 26 years of life,1,2026-10-31,"Fixed-embodied-energy scaling: 26.2/20=1.31. At baseline output, threshold is 26.2 years, not exactly 26; life extension can add maintenance/replacement energy."
+39,Payback,[1] quotes 8 years for solar PV and 1.5 for wind,1,2026-10-31,Secondary historical values from Aman (2015) as quoted in [1]; not current matched technology benchmarks.
+40,Impacts,"Build: 195 g CO2e/kWh; hard-bottom habitat site, effects not assessed","1, 10",2026-10-31,Climate-stage model and hard-bottom site description do not assess actual habitat loss.
+41,Impacts,Construction noise concerned local residents,10,2026-10-31,Reported concern in developer-supplied record.
+42,Impacts,"Operate: low emissions, 12.4 g CO2e/kWh",1,2026-10-31,12.4 is O&M only. Website replaces broad low-emissions interpretation with stage-specific model contribution.
+43,Impacts,No significant acoustic impact in 2016 monitoring; no complaints in about 10 years,10,2026-10-31,"2016 survey nondetection has stated design limitations; no complaints is a reported social indicator, not independent ecological or acceptance proof."
+44,Impacts,Near-field sound and species effects unresolved; no rise seen about 1 km away,"5, 10",2026-10-31,[5] says no clear operational SPL increase at 1000 m. Keep this separate from 2022 positions listed as 250/300/500 m in [10]. Unresolved effects are not demonstrated harm.
+45,Impacts,"Electricity, turbine-testing access and harbour protection","1, 4, 9, 11, 14",2026-10-31,"Generation and testing supported by [1,4,9,13,19]; shared harbour function described historically. No monetary valuation of these benefits inferred."
+46,Impacts,Visitor interest suggests a local benefit,"3, 14",2026-10-31,Historical visitor interest is documented by [3]. The Geopark directly lists its guided visit [21]. A net economic benefit would require spending and cost data.
+47,Impacts,"Public cost €6.7M for the project, €2.3M for the energy plant",16,2026-10-31,Historical capital: €2.3M energy installation is part of €6.7M project total; not annual cost or LCOE.
+48,Impacts,Retire: habitat effects of removal not assessed; dismantling modelled as zero,1,2026-10-31,Unassessed removal habitat effects; zero dismantling emissions are an inventory assumption.
+49,Impacts,Steel recycling cuts metal depletion; more recycling is not always better overall,1,2026-10-31,Category-dependent recycling effects. Text and Table 4 differ on highest-toxicity scenario; do not select a universal optimum.
+50,Impacts,Society (retire): jobs and current acceptance not assessed; 2013 study dated,6,2026-10-31,"Jobs and current acceptance unverified across the project, not specifically established retirement effects. Website separates retirement responsibilities."
+51,Impacts,"Fix: upgrade turbines [4]; residents shape decisions [5,6]","4, 5, 6",2026-10-31,"Proposed interventions. Trial efficiency [4] is not evidence of full-plant annual benefit; engagement [5,6] supports evaluating participation."
+52,Milestones,Jul 2011 plant opens; Dec 2011 storm shutdown; Mar 2012 operation resumes,3,2026-10-31,Original 2012 government statement corroborates July 2011 opening and storm shutdown/restart sequence.
+53,Milestones,2013 social study; 2025 SafeWAVE paper,"5, 6",2026-10-31,Publication years checked. Publication date is not monitoring date.
+54,Footer,"Pre-2018 sources [3,6,11,16] used only where no newer Mutriku-specific study was found","3, 6, 11, 16",2026-10-31,"Avoid claiming that no later paper exists. Historical events retain original sources; technical salt-exposure context is updated by [15], and engagement is considered alongside [5]."
+55,Conclusions,Construction dominates: 86.6% of 226 g,1,2026-10-31,86.6% is a rounded-stage share; avoid implying 195/226 rounds to 86.6 (it rounds to 86.3). Website specifies the denominator.
+56,Conclusions,Payback exceeds service life: 26.2 vs 20 years; output about 41% of forecast,"1, 2, 3",2026-10-31,Separate preliminary model payback from historical measured generation and dated forecast. Neither establishes current performance.
+57,Conclusions,Evidence is incomplete: dismantling zero; social evidence dated,"1, 6",2026-10-31,Gaps retained. Modelled zero is not measured zero; the older study does not establish current acceptance.

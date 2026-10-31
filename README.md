@@ -1,15 +1,16 @@
 # Jubair Hamza — Mutriku website
 
-Prepared 29 October 2026.
+Updated 31 October 2026 to match the supplied Mutriku_Poster_v35 (3).pptx.
 
 ## What is ready
 
 - Four responsive pages: About, Mutriku Poster, Beyond the Poster and CV.
 - Contact email and the supplied LinkedIn profile.
-- Public poster PDF and two-page public CV PDF.
+- New poster PDF exported from the supplied v35 PowerPoint, with its student ID and Exeter email, plus the existing public CV PDF.
 - Original OWC, output, life-cycle and acoustic-scope graphics.
 - Interactive wave phase, impact-category filters and a three-input energy-payback calculator.
-- Source notes, image credit and downloadable chart data.
+- Poster-aligned references [1]–[18], the earlier operator specification [19], EVE’s 2023 annual report [20], the Geopark visitor listing [21] and source access notes.
+- Downloadable chart data, a merged reference catalogue and checks covering all 57 claims in the supplied reference workbook.
 - A QR generator on the poster page, with SVG and PNG downloads.
 
 The website is ready to host. A GitHub deployment has not yet been completed because the account connection and repository destination are not available in this session. No final website QR has been generated for an unconfirmed address.
@@ -44,13 +45,27 @@ GitHub Pages availability and site URLs: https://docs.github.com/en/pages/gettin
 | `assets/style.css` | Colours, fonts and responsive layout |
 | `assets/site.js` | Calculator, filters, navigation and QR behaviour |
 | `assets/config.js` | Final public project URL |
-| `downloads/` | Public PDF files and chart-data CSV |
+| `downloads/Mutriku_Poster.pdf` | Replacement poster exported from the supplied v35 PowerPoint |
+| `downloads/analysis-data.csv` | Values, units, periods, calculations and interpretation limits |
+| `downloads/reference-catalogue.csv` | Merged source list using the poster’s reference numbers |
+| `downloads/claim-checks.csv` | Review and website treatment of the workbook’s 57 claims |
 
 No paid service, account system or contact-form backend is required. The email link opens the visitor’s mail application.
 
 ## Public-copy decisions
 
-The original uploaded files were not overwritten. The website poster retains its design and includes Student ID: 760075852 with jh1868@exeter.ac.uk beside it. The companion explicitly clarifies its operational-carbon, turbine-count, acoustic and mitigation interpretations.
+The original uploaded files were not overwritten. The previous poster has been replaced with a PDF export of the supplied v35 PowerPoint, including Student ID: 760075852 and jh1868@exeter.ac.uk. The preview image is rendered from that same PDF. The website explains the new output comparison, cumulative milestones, material inventory, historical investment, acoustic campaigns and reference numbering.
+
+The original PowerPoint is not included in the website download package. Its visible poster is preserved in the PDF; speaker notes are not part of the published poster.
+
+## v35 consistency notes
+
+- The poster’s 240 MWh/year is shown as an approximate calculation: 3000 MWh divided by 12.5 years. “Over 3 GWh” implies a mean above 240, so this is not an exact measured annual average. EVE’s separate approximate 300 MWh/year report is identified as having a different basis.
+- The 41% figure uses the measured 2014–2016 mean divided by the dated 600 MWh/year forecast. It is not capacity factor, and cumulative totals do not establish present performance.
+- Acoustic campaign dates, sensor positions and publication dates are kept separate. The 1 km statement in [5] is not used as a location description of the 2022 campaign in [10,18].
+- Reference [14] could not be independently retrieved (HTTP 403). It remains in the catalogue to match the poster, with its access limitation stated. EVE’s annual report [20] independently confirms the year-end 2023 milestone and the Geopark [21] lists the guided visit. The longer 13-year no-complaint claim remains unverified.
+- References [3], [9], [16] and [17] now have specific or corrected article addresses. The [17] milestones are corroborated with the primary operator announcement. The website corrects the author spelling Ulacia to Ulazia in [2].
+- The 53–94% comparison and historical solar/wind payback figures remain attributed to [1]. They are not current harmonised technology rankings. The conflicting toxicity-scenario descriptions in [1] are disclosed without choosing an unsupported ranking.
 
 The public CV omits telephone, secondary email, visa/right-to-work text and referee contact details, adds LinkedIn, and uses the chosen location wording. Its research, education and experience content is otherwise retained. Public biographical claims come from the supplied CV; under-review work remains labelled as such.
 
