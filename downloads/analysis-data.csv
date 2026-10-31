@@ -1,0 +1,20 @@
+metric,value,unit,period_or_boundary,evidence_type,source,interpretation_note
+Original installed capacity,296,kW,Original configuration,Operator specification,https://www.bimep.com/en/mutriku-area/technical-characteristics/,16 positions × 18.5 kW; not a claim about present availability
+Operating turbines described in study,14,turbines,2014–2016,Operating study,https://doi.org/10.1016/j.oceaneng.2017.10.018,Study configuration differs from original 16-position installation
+Mean working turbines,10,turbines,2014–2016,Approximate reported mean,https://doi.org/10.1016/j.oceaneng.2017.10.018,Approximately 10; not 10/16 of a fixed study denominator
+Mean annual electricity,246.4687,MWh/year,2014–2016,Measured historical mean,https://doi.org/10.1016/j.oceaneng.2017.10.018,246468.7 kWh converted to MWh
+Earlier annual forecast,600,MWh/year,2012 statement,Forecast,https://www.irekia.euskadi.eus/amp/es/news/11976-planta-mutriku-primera-comercial-europea-que-genera-energia-con-las-olas-producido-ano-200-000-kwh,Not a measurement during 2014–2016
+Measured mean / earlier forecast,41.078116666666666,percent,Different periods,Author calculation,[2]; [3],246.4687 / 600 × 100; not an efficiency
+LCA life-cycle total,226,g CO2e/kWh,20-year model,Modelled,https://doi.org/10.1007/s40722-026-00487-0,Reported total
+Construction contribution,195,g CO2e/kWh,20-year model,Modelled,https://doi.org/10.1007/s40722-026-00487-0,Rounded stage value
+Operation contribution,12.4,g CO2e/kWh,20-year model,Modelled,https://doi.org/10.1007/s40722-026-00487-0,Part of the life-cycle total
+End-of-life contribution,17.9,g CO2e/kWh,20-year model,Modelled,https://doi.org/10.1007/s40722-026-00487-0,Dismantling emissions assumed zero because of missing data
+Rounded stage sum,225.3,g CO2e/kWh,20-year model,Author calculation,[1],225.3; differs from reported total due to rounding
+Construction share of rounded-stage total,86.55126498002663,percent,20-year model,Author calculation,[1],Rounded to 86.6% on chart
+Preliminary energy payback,26.2,years,Published 2026,Preliminary estimate,https://doi.org/10.1007/s40722-026-00487-0,Not measured payback and not carbon/economic payback
+Assumed service life,20,years,LCA,Assumption,https://doi.org/10.1007/s40722-026-00487-0,Does not guarantee actual service life
+Output multiplier for 20-year energy payback,1.31,times baseline,Illustrative sensitivity,Author calculation,[1],Embodied energy held constant
+Annual energy stated in 2024 announcement,300,MWh/year,January 2024,Approximate operator statement,https://www.bimep.com/en/the-mutriku-wave-plant-achieves-cumulative-electricity-production-of-three-million-kilowatts-per-hour/,Later context; not the 2014–2016 measured mean
+Cumulative generation milestone,3,GWh,Announced January 2024,Operator statement,https://www.bimep.com/en/the-mutriku-wave-plant-achieves-cumulative-electricity-production-of-three-million-kilowatts-per-hour/,Exceeded 3 GWh; cumulative rather than annual
+Biradial mean time-averaged peak efficiency gain,37,percent relative,Reported sea trial,Experimental comparison,https://doi.org/10.1016/j.enconman.2022.115936,Specific efficiency metric; not annual plant electricity gain
+Acoustic observation distance,1000,m,SafeWAVE publication 2025,Reported monitoring,https://doi.org/10.36688/imej.8.73-82,No clear operational SPL increase at this distance; no near-field ecological inference
