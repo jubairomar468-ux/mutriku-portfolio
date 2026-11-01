@@ -1,17 +1,17 @@
 ﻿metric,value,unit,period,evidence_type,poster_references,calculation,interpretation
-Installed capacity,296,kW,Original design,Specification,1;10;19,16*18.5,Design capacity; not current available capacity.
-Design turbine positions,16,positions,Original design,Specification,1;10;19,,
+Installed capacity,296,kW,Original design,Specification,1;10;20,16*18.5,Design capacity; not current available capacity.
+Design turbine positions,16,positions,Original design,Specification,1;10;20,,
 Turbines in operating study,14,turbines,2014–2016,Historical study configuration,2,,
 Mean working turbines,10,turbines,2014–2016,Approximate observed mean,2,,Approximately ten; not a current audit.
 Earlier output forecast,600,MWh/year,Published 2012,Forecast,3,600000/1000,Anticipated tuned and automatic operation.
 Measured mean annual output,246.4687,MWh/year,2014–2016,Observed period mean,2,246468.7/1000,
 Measured output / earlier forecast,41.078116666666666,percent,2014–2016 versus 2012 forecast,Author calculation,2;3,246.4687/600*100,Not capacity factor or turbine efficiency.
-Rounded historical annual-output estimate,240,MWh/year,First 12.5 years; milestone announced January 2024,Approximate author calculation,13;14;20,3000/12.5,EVE annual report [20] confirms over 3 GWh by the end of 2023. Approximate 240 uses rounded 3000 MWh; implied mean exceeds 240.
-Calendar-year generation,266,MWh,Calendar 2023,Annual report total,20,,"Single-year observation in EVE’s 2023 electricity table, printed p. 21."
+Rounded historical annual-output estimate,240,MWh/year,First 12.5 years; milestone announced January 2024,Approximate author calculation,13;14;21,3000/12.5,EVE annual report [21] confirms over 3 GWh by the end of 2023. Approximate 240 uses rounded 3000 MWh; implied mean exceeds 240.
+Calendar-year generation,266,MWh,Calendar 2023,Annual report total,21,,"Single-year observation in EVE’s 2023 electricity table, printed p. 21."
 Operator annual-generation estimate,300,MWh/year,Announced 11 January 2024; averaging window unspecified,Approximate operator report,13,300000/1000,Separate basis from lifetime arithmetic.
 Cumulative generation milestone,1,GWh,2016,Operator milestone,17,,"Rounded milestone; cumulative, not annual. 2024 announcement describes the milestone as surpassed."
 Cumulative generation milestone,2,GWh,Announced February 2020,Operator milestone,17,,"Rounded milestone; cumulative, not annual. 2024 announcement describes the milestone as surpassed."
-Cumulative generation milestone,3,GWh,Milestone announced January 2024,Operator milestone,13;20,,"Rounded milestone; cumulative, not annual. 2024 announcement describes the milestone as surpassed."
+Cumulative generation milestone,3,GWh,Milestone announced January 2024,Operator milestone,13;21,,"Rounded milestone; cumulative, not annual. 2024 announcement describes the milestone as surpassed."
 LCA service life,20,years,2026 LCA model,Assumption,1,,
 LCA lifetime generation,4.93,GWh,20-year LCA model,Model input,1,,
 Life-cycle climate impact,226,g CO2e/kWh,20-year LCA model,Published model total,1,,Published rounded total; stages below sum to 225.3.
